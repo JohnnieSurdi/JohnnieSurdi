@@ -1,5 +1,5 @@
-<h1 align="center">Hello World! My name is Jan Surdziel</h1>
-<h3 align="center">I’m a Student at Codecool Programming School.</h3>
+<h1 align="center">Johnnie Surdi</h1>
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/JohnnieSurdi](https://github.com/JohnnieSurdi)
 
