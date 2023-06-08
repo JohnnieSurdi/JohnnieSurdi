@@ -1,6 +1,3 @@
-<h1 align="center">Johnnie Surdi</h1>
-
-
 - 👨‍💻 All of my projects are available at [https://github.com/JohnnieSurdi](https://github.com/JohnnieSurdi)
 
 - 📄 Also, you can check my experience at [https://www.linkedin.com/in/jan-surdziel-67ba92147/](https://www.linkedin.com/in/jan-surdziel-67ba92147/)
